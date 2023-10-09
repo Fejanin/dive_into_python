@@ -1,0 +1,1 @@
+NAME = 'My library.'
